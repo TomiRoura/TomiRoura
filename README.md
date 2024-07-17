@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Welcome)](https://github.com/Akshay090/svg-banners)
+![](assets/Bottom_up.svg)
 
 <!--   my-icons -->
 <p align="center">
